@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Just here doing my thing
 <!--
 **Knoerd/Knoerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
